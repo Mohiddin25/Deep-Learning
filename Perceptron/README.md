@@ -96,8 +96,8 @@ These weights define the initial decision boundary.
 
 ## 5. Define Activation Function
 The activation function predicts:
-- +1 for one class
-- -1 for another class
+- 1 for one class
+- 0 for another class
 
 based on the weighted sum.
 
